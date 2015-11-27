@@ -1,0 +1,5 @@
+window.jQuery = window.$ = require("jquery")
+require('bootstrap-sass')
+require('font-awesome-webpack')
+angular = require('angular')
+require("angular-route")
